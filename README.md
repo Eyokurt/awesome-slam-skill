@@ -1,7 +1,7 @@
 # Awesome SLAM Skill (`awesome-slam`)
 
 [![Antigravity Skill](https://img.shields.io/badge/Antigravity-Skill-blue.svg)](https://github.com/Eyokurt/awesome-slam-skill)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
 [![Offline Archive](https://img.shields.io/badge/Offline%20Papers-111%20PDFs%20(~519MB)-brightgreen.svg)](references/papers-catalog.md)
 
 An expert engineering skill and architectural knowledge base for **Simultaneous Localization and Mapping (SLAM)**, **Visual Odometry (VO)**, **Visual-Inertial Odometry (VIO)**, and **LiDAR-Inertial Odometry (LIO)**.
@@ -164,5 +164,6 @@ Antigravity will automatically discover and activate this skill when you prompt:
 
 ## 📜 License & Acknowledgments
 
-- **Repository License**: [MIT License](LICENSE) (derived from `SilenceOverflow/Awesome-SLAM`, curated by Youjie Xia).
+- **Repository License**: [Creative Commons Zero v1.0 Universal (CC0 1.0)](LICENSE) Public Domain Dedication for the curated collection, documentation, and skill modules.
+- **Upstream Attribution**: Derived from `SilenceOverflow/Awesome-SLAM` (curated by Youjie Xia, MIT License).
 - **Academic Attribution**: All research papers and documents in the `papers/` directory belong to their respective authors and institutions (arXiv preprints, IEEE, CVF, Robotics: Science and Systems, ACM).
