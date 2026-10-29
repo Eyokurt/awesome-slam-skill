@@ -4,6 +4,10 @@
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
 [![Offline Archive](https://img.shields.io/badge/Offline%20Papers-111%20PDFs%20(~519MB)-brightgreen.svg)](references/papers-catalog.md)
 
+<p align="center">
+  <img src="assets/opengraph.png" alt="Awesome SLAM Skill Banner" width="100%" />
+</p>
+
 An expert engineering skill and architectural knowledge base for **Simultaneous Localization and Mapping (SLAM)**, **Visual Odometry (VO)**, **Visual-Inertial Odometry (VIO)**, and **LiDAR-Inertial Odometry (LIO)**.
 
 This skill equips AI coding assistants and robotic engineers with authoritative decision matrices, mathematical foundations (Lie theory, factor graphs), sensor calibration workflows, and an offline, curated repository of **111 peer-reviewed research papers and technical documents**.
