@@ -1,6 +1,6 @@
 # Awesome SLAM Skill (`awesome-slam`)
 
-[![Antigravity Skill](https://img.shields.io/badge/Antigravity-Skill-blue.svg)](https://github.com/Eyokurt/awesome-slam-skill)
+[![Agent Skill](https://img.shields.io/badge/Agent%20Skill-Ready-blue.svg)](SKILL.md)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
 [![Offline Archive](https://img.shields.io/badge/Offline%20Papers-111%20PDFs%20(~519MB)-brightgreen.svg)](references/papers-catalog.md)
 
@@ -137,10 +137,10 @@ awesome-slam/
 
 ---
 
-## 🚀 How to Install & Use in Antigravity
+## 🚀 Installation & Usage as an Agent Skill
 
 ### Option 1: Global Installation (Recommended)
-Place the `awesome-slam` directory inside your personal Antigravity config directory:
+Place the `awesome-slam` directory inside your personal agent skills directory:
 ```powershell
 # Windows
 Copy-Item -Recurse awesome-slam "$env:USERPROFILE\.gemini\config\skills\"
@@ -157,7 +157,7 @@ cp -r awesome-slam .agents/skills/
 ```
 
 ### Triggering the Skill in Prompts
-Antigravity will automatically discover and activate this skill when you prompt:
+AI coding agents will automatically discover and activate this skill when you prompt:
 - *"Which SLAM pipeline should I choose for an indoor delivery robot with an RGB-D camera and low-cost IMU?"*
 - *"Derive the right Jacobian of SO(3) for camera pose perturbation."*
 - *"Help me debug tracking loss in VINS-Mono during rapid pure yaw rotation."*

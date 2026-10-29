@@ -29,9 +29,9 @@
   <rect x="24" y="24" width="1232" height="592" rx="4" class="border" />
 
   <!-- Pill Badge -->
-  <rect x="72" y="70" width="345" height="32" rx="6" class="pill-bg" />
+  <rect x="72" y="70" width="315" height="32" rx="6" class="pill-bg" />
   <circle cx="86" cy="86" r="4" fill="#60a5fa" />
-  <text x="100" y="91" class="text-badge">ANTIGRAVITY SKILL • RESEARCH ARCHIVE</text>
+  <text x="100" y="91" class="text-badge">AGENT SKILL  •  RESEARCH ARCHIVE</text>
 
   <!-- Main Title & Description -->
   <text x="72" y="180" class="text-title">awesome-slam</text>
@@ -43,19 +43,19 @@
   <g transform="translate(72, 480)">
     <rect x="0" y="0" width="175" height="76" rx="6" class="pill-bg" />
     <text x="16" y="32" class="text-metric-val">111 PAPERS</text>
-    <text x="16" y="56" class="text-metric-lbl">Curated Offline Library</text>
+    <text x="16" y="56" class="text-metric-lbl">Offline Library</text>
 
     <rect x="189" y="0" width="175" height="76" rx="6" class="pill-bg" />
     <text x="205" y="32" class="text-metric-val">10 MODULES</text>
-    <text x="205" y="56" class="text-metric-lbl">Domain Decision Matrices</text>
+    <text x="205" y="56" class="text-metric-lbl">Decision Guides</text>
 
     <rect x="378" y="0" width="175" height="76" rx="6" class="pill-bg" />
     <text x="394" y="32" class="text-metric-val">CC0 1.0 / MIT</text>
-    <text x="394" y="56" class="text-metric-lbl">Public Domain &amp; Open</text>
+    <text x="394" y="56" class="text-metric-lbl">Public Domain</text>
 
     <rect x="567" y="0" width="175" height="76" rx="6" class="pill-bg" />
     <text x="583" y="32" class="text-metric-val">~519 MB</text>
-    <text x="583" y="56" class="text-metric-lbl">Complete PDF Archive</text>
+    <text x="583" y="56" class="text-metric-lbl">Curated PDFs</text>
   </g>
 
   <!-- Right Side Minimalist SLAM Trajectory Graph -->
